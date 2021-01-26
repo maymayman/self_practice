@@ -1,0 +1,8 @@
+{
+  "binary": "/Users/lap12281/Desktop/self_workspace/self_practice/venv/bin/pyre.bin",
+  "source_directories": [
+    "."
+  ],
+  "taint_models_path": "/Users/lap12281/Desktop/self_workspace/self_practice/venv/lib",
+  "typeshed": "/Users/lap12281/Desktop/self_workspace/self_practice/venv/lib/pyre_check/typeshed"
+}
